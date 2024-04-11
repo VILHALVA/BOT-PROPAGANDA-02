@@ -1,7 +1,9 @@
 # BOT PROPAGANDA - VOLUME 2
 🛑ESSE É UM BOT DO TELEGRAM QUE ENVIA UM ÁNUCIO DE TEMPOS EM TEMPOS!
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este bot é um bot de anúncios automatizado para grupos do Telegram. Ele é capaz de enviar anúncios periodicamente de acordo com as configurações definidas no arquivo "CONFIG.json". 
